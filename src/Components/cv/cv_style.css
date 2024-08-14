@@ -1,0 +1,68 @@
+.CV_all{
+    font-family: Calibri, serif;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.hard_contacts{
+    display: flex;
+    gap: 6px;
+}
+
+.my_contacts h3{
+    font-size: 20px;
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+.chapter{
+    padding-bottom: 40px;
+    border: transparent 1px solid;
+}
+
+.chapter:hover{
+    border: #131313 1px solid;
+}
+
+.chapter h4{
+    border-bottom: 1px solid black;
+}
+
+.subchapter {
+    margin: 5px 15px;
+}
+
+.place {
+    display: flex;
+    justify-content: space-between;
+    margin: -20px 0;
+    align-items: center;
+}
+
+
+.the_one{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.project{
+    display: flex;
+    flex-direction: column;
+}
+
+.project_title{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.project_technologies{
+    font-size: 10px;
+    font-weight: 500;
+}
+
+li{
+    width: 400px;
+}
+
